@@ -1,0 +1,70 @@
+{
+  "short_name": "לְך לָך",
+  "name": "לְך לָך - אתר חנות",
+  "icons": [
+    {
+      "src": "images/logo.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "797x797",
+      "type": "image/png"
+    },
+    {
+      "src": "images/banner.png",
+      "sizes": "877x877",
+      "type": "image/png"
+    },
+    {
+      "src": "images/1.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "images/2.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "images/3.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "images/4.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "images/5.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "images/6.jpg",
+      "type": "image/jpeg",
+      "sizes": "966x994"
+    },
+    {
+      "src": "images/7.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "images/8.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "images/9.jpg",
+      "type": "image/jpeg",
+      "sizes": "1000x1000"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
