@@ -9,8 +9,7 @@ app.use(cors()); // Enable CORS
 
 // Connect to the MongoDB database using mongojs
 const db = mongojs(
-  'mongodb+srv://Student:webdev2024student@cluster0.uqyflra.mongodb.net/webdev2024',
-  ['products','orders']
+  process.env.MONGO_URI
 );
 
 // Collections from the database
